@@ -79,7 +79,12 @@ These files can be uploaded directly to a PCB manufacturer for production.
 
 *Group 6*
 200 Mechatronics Engineering Students
+
 Bells University of Technology
-1.Chima,Joy Chinyere
-2.Kuforiji, Ayomiposi Moyosore
-3.Okoro, Amarachi Agnes
+
+1. Chima,Joy Chinyere
+2. Kuforiji, Ayomiposi Moyosore
+3. Okoro, Amarachi Agnes
+4. LAWANSON JANESSA OLUWATITONI
+5. Ogunjobi David Eyinjuoluwa
+
